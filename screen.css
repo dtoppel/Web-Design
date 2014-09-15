@@ -6,8 +6,8 @@ html {
   text-size-adjust: 100%;
   font-size: 18px;
   line-height: 24px;
-  background-color: #222930;
-  color: #E9E9E9;
+  background-color: #344152; /*oxford blue*/
+  color: #F0FFFF; /*twilight blue*/
 }
 h1 {
   font-size: 38px;
@@ -16,7 +16,10 @@ h1 {
   margin-bottom: 18px;
 }
 p {
-  color: #4EB1BA;
+  color: #73B1B7; /*neptune*/
   margin-top: 6px;
   margin-bottom: 18px;
+}
+footer {
+  font-size: 12px;
 }
