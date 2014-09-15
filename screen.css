@@ -1,6 +1,22 @@
-/* My CSS File */
-
 html {
+ /*Work more with tweaking technical aspect of the design*/
+  -webkit-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  font-size: 18px;
+  line-height: 24px;
   background-color: #222930;
   color: #E9E9E9;
+}
+h1 {
+  font-size: 38px;
+  line-height: 42px;
+  margin-top: 6px;
+  margin-bottom: 18px;
+}
+p {
+  color: #4EB1BA;
+  margin-top: 6px;
+  margin-bottom: 18px;
 }
